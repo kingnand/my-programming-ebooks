@@ -1,5 +1,7 @@
 ### Index
 
-* [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - John Wiegley
-* [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Roger Dudler
-* [10 Must Have JavaScript Tools For Developers](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read#leanpub-auto-must-have-javascript-tools-for-developers) - leanpub.com/ohmyjs
+* [Java Garbage Collection Basics](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html) - www.oracle.com
+* [Understanding Java Garbage Collection](http://www.cubrid.org/blog/understanding-java-garbage-collection) - Sangmin Lee
+* [Java Memory Management](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) - www.dynatrace.com
+* [JVM performance optimization](https://www.javaworld.com/article/2078623/core-java/jvm-performance-optimization-part-1-a-jvm-technology-primer.html) - Eva Andreasson
+* [JVM performance optimization, Part 3](https://www.javaworld.com/article/2078645/java-se/jvm-performance-optimization-part-3-garbage-collection.html) - Eva Andreasson
